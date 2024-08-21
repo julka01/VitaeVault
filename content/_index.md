@@ -26,9 +26,9 @@ sections:
           # Add your ima192.168.178.21ge background to `assets/media/`.
           filename: background-7.jpg
           filters:
-            brightness: 1.7 
-            grayscale: True
-          size: contain #contain, cover or actual
+            brightness: 2.0 
+
+          size: 50% #contain, cover or actual
           position: left
           parallax: true
   
