@@ -10,10 +10,6 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:1313/publication/conference-paper-9/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>//localhost:1313/publication_types/paper-conference/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -39,10 +35,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>//localhost:1313/publication/conference-paper-10/</loc>
-    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/publication/conference-paper-122/</loc>
     <lastmod>2024-09-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -142,6 +134,10 @@
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>//localhost:1313/publication/conference-paper-9/</loc>
+    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>//localhost:1313/tags/knowledge-distillation/</loc>
     <lastmod>2023-09-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -200,6 +196,10 @@
   </url><url>
     <loc>//localhost:1313/publication/conference-paper-5/</loc>
     <lastmod>2018-09-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/publication/conference-paper-122/</loc>
+    <lastmod>2018-04-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
