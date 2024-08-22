@@ -39,15 +39,15 @@ sections:
       subtitle: ''
       text: |-
         - **09/2024:** Attending [ECML PKDD 2024](https://ecmlpkdd.org/2024/) in Vilnius, Lithuania, and LOD 2024 in Tuscany, Italy, to present accepted work at the respective conferences.
-        - **09/2023:** Gave two presentations at [LOD 2023](https://lod2023.icas.cc/wp-content/uploads/sites/23/2023/09/LOD-ACAIN-2023-Program-06.pdf) in Lake District, UK.
+        - **09/2023:** Gave two talks at [LOD 2023](https://lod2023.icas.cc/wp-content/uploads/sites/23/2023/09/LOD-ACAIN-2023-Program-06.pdf) in Lake District, UK.
         - **04/2023:** Delivered two virtual presentations at [ERIM 2023](https://www.youtube.com/watch?v=-wV6LX3Zpho&t=7219s) related to the Europlanet 2024 project.
         - **09/2022:** Conducted a workshop on "Image Segmentation in planetary applications" at [EPSC 2022](https://meetingorganizer.copernicus.org/EPSC2022/session/44849) in Granada, Spain and co-convened a session on "Machine Learning in Planetary Sciences." [Session link](https://meetingorganizer.copernicus.org/EPSC2022/session/44609)
         - **09/2022:** Presented work on Deep Active Learning for the detection of Mercury's Magnetopause and Bow Shock Crossings at [ECML PKDD 2022](https://ecmlpkdd.org/2022/) in Grenoble, France.
         - **04/2022:** Co-convened a session on "Machine Learning in Planetary Science" at [EGU 2022](https://meetingorganizer.copernicus.org/EGU22/session/43559).
         - **03/2022:** Presented work from the Europlanet Project at the [AGU session on Machine Learning in Heliophysics](https://ml-helio.github.io/#Program) in Boulder, Colorado, USA.
-        - **09/2021:** Gave two presentations at [EPSC 2021](https://meetingorganizer.copernicus.org/EPSC2021/session/41613) and co-convened a session on "Machine Learning in Planetary Sciences."
+        - **09/2021:** Gave two talks at [EPSC 2021](https://meetingorganizer.copernicus.org/EPSC2021/session/41613) and co-convened a session on "Machine Learning in Planetary Sciences."
         - **09/2021:** Presented work on Conditional GANs at [LOD 2021](https://lod2021.icas.cc/program/) in Lake District, UK.
-        - **04/2021:** Gave two presentations at [EGU 2021](https://meetingorganizer.copernicus.org/EGU21/sessionprogramme/ST?cosession=6095abd82abfd2-93612894-m) and co-convened a session on "Machine Learning in Planetary Science and Heliophysics."
+        - **04/2021:** Gave two talks at [EGU 2021](https://meetingorganizer.copernicus.org/EGU21/sessionprogramme/ST?cosession=6095abd82abfd2-93612894-m) and co-convened a session on "Machine Learning in Planetary Science and Heliophysics."
         - **02/2020:** Attended the [Europlanet kickoff](https://www.europlanet-society.org/presentations-from-europlanet-2024-ri-kick-off-meeting/) in Windsor, UK.
         - **09/2019:** Presented top-5 winning entry at the Ariel Challenge on the estimation of dips in light curve from exoplanets at the [Data Science Challenge](https://ecmlpkdd2019.org/programme/discovery/) conducted at [ECML PKDD 2019](https://ecmlpkdd2019.org/programme/discovery/) in Würzburg, Germany.
 
