@@ -1,19 +1,18 @@
 ---
-title: "Leveraging Graph Networks and Generative
-Adversarial Networks for Controllable
-Trajectory Predictions "
+title: "Deep convolutional recurrent neural network for rare acoustic event detection"
 authors:
 - admin
-- Ahmad Zubair
-- Michael Granitzer
-date: "2024-09-06T00:00:00Z"
+- Shahin Amiriparian
+- Nicolas Cummins
+- Björn Schuller
+date: "2018-04-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-10-01T00:00:00Z"
+publishDate: "2018-04-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-04-08T00:00:00Z"
+publishDate: "2018-04-08T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,28 +20,10 @@ publishDate: "2024-04-08T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Machine Learning, Data Science and Optimization 2024*
-publication_short: In *LOD 204*
+publication: In *Jahrestagung für Akustik 2018*
+publication_short: In *DAGA 2018*
 
-abstract: "The rapid advancement in autonomous technologies high-
-lights the growing importance of accurate pedestrian trajectory predic-
-tion. While Generative Adversarial Networks (GANs) are a potent tool
-for this task, their latent spaces often lack controllability. Addressing
-this gap, this work presents an innovative method that combines a Graph
-Attention Network (GAT) with InfoGAN, enhancing the predictability
-and management of GANs’ latent spaces for controllable outcomes. We
-adopt graph-based spatial representations of pedestrian movement pat-
-terns over time, facilitating the generation of realistic future trajecto-
-ries. This novel integration of GAT with InfoGAN is key to our model’s
-ability to learn distinct representations of pedestrian behaviors, thus
-markedly improving its predictive precision. Evaluation against bench-
-mark datasets demonstrates its effectiveness in advancing pedestrian tra-
-jectory prediction compared to current state-of-the-art approaches. This
-research lays the groundwork for developing more accurate models for
-pedestrian prediction, with promising applications in autonomous vehicle
-navigation and intelligent surveillance systems. Future exploration could
-broaden the scope of this methodology to diverse trajectory prediction
-scenarios, concentrating on further enhancing its efficacy and versatility."
+abstract: "Rare acoustic event detection, as evidenced by the recent IEEE AASP Challenge on Detection and Classification of Acoustic Scenes and Events (DCASE 2017), is a growing field of acoustic classification research. Rare audio events often possess unique spectral and temporal structures which can aid their identification. In this regard, we investigate the advantages of a hybrid combination of convolutional neural network and a recurrent neural network to classify rare occurring sound events in audio streams. Our developed system uses log-Mel spectrograms fed into convolutional layers to first extract high-level, shift-invariant spectral features. Recurrent layers are then used to learn the long-term temporal context from obtained high-level features. Finally, using a feed forward neural network with sigmoid activations, a sequence of probability estimations is used to predict the onset and presence of the rare sounds. We develop and test our system on the Detection of Rare Sound Events task of the DCASE 2017 challenge. Key results presented indicate that our proposed approach outperforms the challenge baseline, improving the overall detection error rate from 0.63 to 0.29 on the evaluation dataset."
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 

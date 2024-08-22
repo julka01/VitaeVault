@@ -34,7 +34,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/deliver/index/docId/44180/file/1772.pdf
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
