@@ -79,7 +79,7 @@ sections:
         - **Summer 2021 - 2024**: [5944UE Machine Learning Lab](https://www.fim.uni-passau.de/data-science/lehre-und-studium/lehrveranstaltungen/veranstaltungsdetails?config_id=232ee5ad516ac92bf590f99ac8c2baa8&module=TemplateLecturedetails&range_id=fe6270326db54a4fa75c5fe1a5eaea48&seminar_id=d8cef59f8abb7dc43e34560c54f884bd&target=)
        
          ** Supervised Master's and Bachelor's Theses (TODO)**
-        - Ayoub Ben Aissa, "GAN tool: Building a GAN simulator"
+#        - Ayoub Ben Aissa, "GAN tool: Building a GAN simulator"
 ##             - Nikolas Kirschstein "Detection of bow shock and magnetopause crossings from MESSENGER data"
 ##              - Salim Fares "Exploiting SAM as an annotator for Image Segmentation"
 ##              - Venugopal Aswathy "Covid something something"
