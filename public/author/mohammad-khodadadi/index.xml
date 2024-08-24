@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohammad Khodadadi | Sahib Julka</title>
+    <link>http://localhost:1313/author/mohammad-khodadadi/</link>
+      <atom:link href="http://localhost:1313/author/mohammad-khodadadi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mohammad Khodadadi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu16215007904707092172.png</url>
+      <title>Mohammad Khodadadi</title>
+      <link>http://localhost:1313/author/mohammad-khodadadi/</link>
+    </image>
+    
+    <item>
+      <title>LLMs in the Loop: Leveraging Large Language Model Annotations for Active Learning in Low-Resource Languages</title>
+      <link>http://localhost:1313/publication/conference-paper/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

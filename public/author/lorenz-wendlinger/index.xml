@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lorenz Wendlinger | Sahib Julka</title>
+    <link>http://localhost:1313/author/lorenz-wendlinger/</link>
+      <atom:link href="http://localhost:1313/author/lorenz-wendlinger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lorenz Wendlinger</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu16215007904707092172.png</url>
+      <title>Lorenz Wendlinger</title>
+      <link>http://localhost:1313/author/lorenz-wendlinger/</link>
+    </image>
+    
+    <item>
+      <title>DriftGAN: Using historical data for Unsupervised Recurring Drift Detection</title>
+      <link>http://localhost:1313/publication/conference-paper-6/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper-6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

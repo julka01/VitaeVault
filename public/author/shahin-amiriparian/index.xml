@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shahin Amiriparian | Sahib Julka</title>
+    <link>http://localhost:1313/author/shahin-amiriparian/</link>
+      <atom:link href="http://localhost:1313/author/shahin-amiriparian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shahin Amiriparian</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu16215007904707092172.png</url>
+      <title>Shahin Amiriparian</title>
+      <link>http://localhost:1313/author/shahin-amiriparian/</link>
+    </image>
+    
+    <item>
+      <title>Recognition of Echolalic Autistic Child Vocalisations Utilising Convolutional Recurrent Neural Networks</title>
+      <link>http://localhost:1313/publication/conference-paper-5/</link>
+      <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep convolutional recurrent neural network for rare acoustic event detection</title>
+      <link>http://localhost:1313/publication/conference-paper-122/</link>
+      <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper-122/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
