@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Low-Resource Language Modelling | Sahib Julka</title>
-    <link>//localhost:1313/tags/low-resource-language-modelling/</link>
-      <atom:link href="//localhost:1313/tags/low-resource-language-modelling/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/low-resource-language-modelling/</link>
+      <atom:link href="http://localhost:1313/tags/low-resource-language-modelling/index.xml" rel="self" type="application/rss+xml" />
     <description>Low-Resource Language Modelling</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/icon_hu16215007904707092172.png</url>
+      <url>http://localhost:1313/media/icon_hu16215007904707092172.png</url>
       <title>Low-Resource Language Modelling</title>
-      <link>//localhost:1313/tags/low-resource-language-modelling/</link>
+      <link>http://localhost:1313/tags/low-resource-language-modelling/</link>
     </image>
     
     <item>
       <title>LLMs in the Loop: Leveraging Large Language Model Annotations for Active Learning in Low-Resource Languages</title>
-      <link>//localhost:1313/publication/conference-paper/</link>
+      <link>http://localhost:1313/publication/conference-paper/</link>
       <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/conference-paper/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
       <description></description>
     </item>
     

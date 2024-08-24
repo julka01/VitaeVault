@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Magnetic Spectra Around the Earth, and Mars. | Sahib Julka</title>
-    <link>//localhost:1313/tags/magnetic-spectra-around-the-earth-and-mars./</link>
-      <atom:link href="//localhost:1313/tags/magnetic-spectra-around-the-earth-and-mars./index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/magnetic-spectra-around-the-earth-and-mars./</link>
+      <atom:link href="http://localhost:1313/tags/magnetic-spectra-around-the-earth-and-mars./index.xml" rel="self" type="application/rss+xml" />
     <description>Magnetic Spectra Around the Earth, and Mars.</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/icon_hu16215007904707092172.png</url>
+      <url>http://localhost:1313/media/icon_hu16215007904707092172.png</url>
       <title>Magnetic Spectra Around the Earth, and Mars.</title>
-      <link>//localhost:1313/tags/magnetic-spectra-around-the-earth-and-mars./</link>
+      <link>http://localhost:1313/tags/magnetic-spectra-around-the-earth-and-mars./</link>
     </image>
     
     <item>
       <title>Segmentation of Chorus wave signatures in planetary magnetic spectra</title>
-      <link>//localhost:1313/project/project/chorus-wave/</link>
+      <link>http://localhost:1313/project/project/chorus-wave/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/project/chorus-wave/</guid>
+      <guid>http://localhost:1313/project/project/chorus-wave/</guid>
       <description>&lt;p&gt;State-of-the-art on detection and classifcation of whistler and chorus waves&lt;/p&gt;</description>
     </item>
     
