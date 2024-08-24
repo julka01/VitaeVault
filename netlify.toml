@@ -22,3 +22,8 @@
 
 [params]
   favicon = "static/img/favicon.ico"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # This allows HTML in Markdown files

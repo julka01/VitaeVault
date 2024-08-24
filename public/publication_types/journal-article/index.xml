@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Journal-Article | Sahib Julka</title>
-    <link>//localhost:1313/publication_types/journal-article/</link>
-      <atom:link href="//localhost:1313/publication_types/journal-article/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/journal-article/</link>
+      <atom:link href="http://localhost:1313/publication_types/journal-article/index.xml" rel="self" type="application/rss+xml" />
     <description>Journal-Article</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/icon_hu16215007904707092172.png</url>
+      <url>http://localhost:1313/media/icon_hu16215007904707092172.png</url>
       <title>Journal-Article</title>
-      <link>//localhost:1313/publication_types/journal-article/</link>
+      <link>http://localhost:1313/publication_types/journal-article/</link>
     </image>
     
     <item>
       <title>Lessons learned from the 1st Ariel Machine Learning Challenge: Correcting transiting exoplanet light curves for stellar spots </title>
-      <link>//localhost:1313/publication/conference-paper-11/</link>
+      <link>http://localhost:1313/publication/conference-paper-11/</link>
       <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/conference-paper-11/</guid>
+      <guid>http://localhost:1313/publication/conference-paper-11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Day-Ahead Forecasting of the Percentage of Renewables Based on Time-Series Statistical Methods</title>
-      <link>//localhost:1313/publication/conference-paper-7/</link>
+      <link>http://localhost:1313/publication/conference-paper-7/</link>
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/conference-paper-7/</guid>
+      <guid>http://localhost:1313/publication/conference-paper-7/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Sahib Julka</title>
-    <link>//localhost:1313/project/</link>
-      <atom:link href="//localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/icon_hu16215007904707092172.png</url>
+      <url>http://localhost:1313/media/icon_hu16215007904707092172.png</url>
       <title>Projects</title>
-      <link>//localhost:1313/project/</link>
+      <link>http://localhost:1313/project/</link>
     </image>
     
     <item>
       <title>Active Learning with Concept Drift Detection-learn</title>
-      <link>//localhost:1313/project/project/active-learning-with-concept-drift-detection/</link>
+      <link>http://localhost:1313/project/project/active-learning-with-concept-drift-detection/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/project/active-learning-with-concept-drift-detection/</guid>
+      <guid>http://localhost:1313/project/project/active-learning-with-concept-drift-detection/</guid>
       <description>&lt;p&gt;Orbit data is sampled after a concept drift is detected, in a Active Learning loop&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Segmentation of Chorus wave signatures in planetary magnetic spectra</title>
-      <link>//localhost:1313/project/project/chorus-wave/</link>
+      <link>http://localhost:1313/project/project/chorus-wave/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/project/chorus-wave/</guid>
+      <guid>http://localhost:1313/project/project/chorus-wave/</guid>
       <description>&lt;p&gt;State-of-the-art on detection and classifcation of whistler and chorus waves&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>GMAP Mound-Segmentation</title>
-      <link>//localhost:1313/project/project/gmap-mound-detection/</link>
+      <link>http://localhost:1313/project/project/gmap-mound-detection/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/project/gmap-mound-detection/</guid>
+      <guid>http://localhost:1313/project/project/gmap-mound-detection/</guid>
       <description>&lt;p&gt;Detection and localisation of mound-like structures on the surface of Mars using Digital Terrain Models/HiRISE images.&lt;/p&gt;</description>
     </item>
     

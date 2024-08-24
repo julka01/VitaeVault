@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Magnetosphere | Sahib Julka</title>
-    <link>//localhost:1313/tags/magnetosphere/</link>
-      <atom:link href="//localhost:1313/tags/magnetosphere/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/magnetosphere/</link>
+      <atom:link href="http://localhost:1313/tags/magnetosphere/index.xml" rel="self" type="application/rss+xml" />
     <description>Magnetosphere</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/media/icon_hu16215007904707092172.png</url>
+      <url>http://localhost:1313/media/icon_hu16215007904707092172.png</url>
       <title>Magnetosphere</title>
-      <link>//localhost:1313/tags/magnetosphere/</link>
+      <link>http://localhost:1313/tags/magnetosphere/</link>
     </image>
     
     <item>
       <title>Deep Active Learning for Detection of Mercury&#39;s Bow Shock and Magnetopause Crossings</title>
-      <link>//localhost:1313/publication/conference-paper-2/</link>
+      <link>http://localhost:1313/publication/conference-paper-2/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/conference-paper-2/</guid>
+      <guid>http://localhost:1313/publication/conference-paper-2/</guid>
       <description></description>
     </item>
     
