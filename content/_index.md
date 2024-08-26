@@ -24,7 +24,7 @@ sections:
         color: white
         image:
           # Add your ima192.168.178.21ge background to `assets/media/`.
-          filename: background-7.jpg
+          filename: background.jpg
           filters:
             brightness: 2.0 
 
