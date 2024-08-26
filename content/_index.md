@@ -26,7 +26,7 @@ sections:
           # Add your ima192.168.178.21ge background to `assets/media/`.
           filename: background.jpg
           filters:
-            brightness: 2.0 
+            brightness: 3.0 
 
           size: 30% #contain, cover or actual
           position: left
