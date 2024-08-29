@@ -93,7 +93,7 @@ sections:
 ##              - Vishal Sowrirajan "Random Title"
 ##              - Rajat Sharma "Random Title"
 ##              - Rodion Ishmukhametov "Random Title"    
-##            
+###            
 #    design:
 #      columns: '1'
 

@@ -75,10 +75,10 @@
 
   #profile {
     position: relative;
-    margin-left: 35%; /* Adjust if necessary */
-    margin-top: -5%;
-    width: 65%;
-    max-width: 100%
+    margin-left: 30%; /* Adjust if necessary */
+    margin-top: -8%;
+    width: 68%;
+    max-width: 70%
   }
 </style>
 
@@ -141,8 +141,8 @@
   </ul>
 
   {{ with ($block.content.text | emojify | $page.RenderString) | default $person_page.Content }}
-  <div class="pt-2 prose prose-slate lg:prose-xl dark:prose-invert">
-    <div class="bio-text">
+  <<div class="pt-2 prose prose-slate lg:prose-xl dark:prose-invert" style="width: 100%; max-width: none;">
+    <div class="bio-text", style="width: 90%; max-width: none;">
       {{ . }}
     </div>
   </div>
