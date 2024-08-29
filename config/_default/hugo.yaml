@@ -6,7 +6,7 @@
 # Website name
 title: Sahib Julka
 # Website URL
-baseURL: 'http://localhost:1313'
+baseURL: 'https://julka01.github.io/VitaeVault/'
 
 ############################
 ## LANGUAGE
