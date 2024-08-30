@@ -217,7 +217,7 @@ languages:
 
 
 ## About Me
-I'm a seeker in perpetual pursuit of knowledge. As a child, I often wondered about questions like  "If I cut my brain and put it into another body, will it still be me?" This style of inquistion led to a lifelong quest to studying and understanding topics like consciousness and intelligence. For me, the true hallmark of having understood an idea is to be able to break it into its simplest form and simulate it in artificial systems.
+I'm a natural seeker, perpetually drawn to the pursuit of knowledge. As a child, I often wondered about questions like  "If I cut my brain and put it into another body, will it still be me?" This style of inquistion led to a lifelong quest to studying and understanding topics like consciousness and intelligence. For me, the true hallmark of having understood an idea is to be able to break it into its simplest form and simulate it in artificial systems.
 
 Today, I'm working towards completing my doctorate under the guidance of Prof. Michael Granitzer at the Chair of Data Science in Passau, Germany. My work herein entails accelerating Machine Learning in low-resource domains like Planetary Science and Medicine. I have been involved in developing pipelines that maximise ML outcomes with limited supervised training data, while enhancing the process to be more causal, controllable, and explainable.
 
